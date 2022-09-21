@@ -7,6 +7,8 @@
 @import "bootstrap/scss/bootstrap";
 @import "font-awesome";
 
-// Your CSS partials
+// Media queries
+@import "config/media_queries";
+// Pages
 @import "components/index";
 @import "pages/index";
